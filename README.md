@@ -1,2 +1,1 @@
-# myblog
-This is HABIB cyber security site.
+# THIS IS THE REPO FOR MY BLOG SITE
